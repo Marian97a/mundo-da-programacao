@@ -69,13 +69,13 @@ A ideia aqui é gastar apenas **20 a 30 minutos por dia**. O objetivo é entende
 * **Conceito:** Imagine que você tem uma caixa chamada "idade". Você pode guardar o número 28 lá dentro.
 * **No Python:**
     ```python
-    nome = "Seu Nome"
-    idade = 25
+    nome = "Junior"
+    idade = 28
     print(nome)
     print(idade)
 
     saida
-    (junior, 26)
+    (Junior, 28)
     ```
 
 ### Dia 6: Tomando Decisões (Se... Então...) 🚦
