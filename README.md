@@ -10,7 +10,7 @@ Este guia foi feito pensando em quem tem **pouco tempo** e quer entender o bási
 
 Se você acha que programar é aquela chuva de códigos verdes igual no filme *Matrix*, esqueça! No fundo, programar é muito mais simples: é a arte de **dar ordens**.
 
-Pense no computador como um cozinheiro extremamente rápido e obediente, mas **muito burro**. Ele não sabe improvisar.
+Pense no computador como um cozinheiro extremamente rápido e obediente, mas **sem inteligência**. Ele não sabe improvisar.
 * Se você falar: *"Faça um bolo"*, ele trava. 🤯
 * Se você falar: *"Pegue 2 ovos, quebre, misture com 3 xícaras de farinha..."*, ele faz perfeito. 🍰
 
@@ -56,6 +56,7 @@ A ideia aqui é gastar apenas **20 a 30 minutos por dia**. O objetivo é entende
     * Acesse o site: [scratch.mit.edu](https://scratch.mit.edu).
     * Clique em "Criar". Tente fazer o gatinho andar para a frente quando você apertar a tecla espaço.
     * É aqui que você entende o conceito de encaixar blocos lógicos.
+    * Tem tutoriais caso queira praticar mais tambem.
 
 ### Dia 4: O Primeiro Código de Verdade (Python) 🐍
 * **Objetivo:** Escrever sua primeira linha de texto que o computador entende.
@@ -65,13 +66,16 @@ A ideia aqui é gastar apenas **20 a 30 minutos por dia**. O objetivo é entende
 
 ### Dia 5: Variáveis (As Caixinhas) 📦
 * **Objetivo:** Entender como o computador guarda informações.
-* **Conceito:** Imagine que você tem uma caixa chamada "idade". Você pode guardar o número 25 lá dentro.
+* **Conceito:** Imagine que você tem uma caixa chamada "idade". Você pode guardar o número 28 lá dentro.
 * **No Python:**
     ```python
     nome = "Seu Nome"
     idade = 25
     print(nome)
     print(idade)
+
+    saida
+    (junior, 26)
     ```
 
 ### Dia 6: Tomando Decisões (Se... Então...) 🚦
